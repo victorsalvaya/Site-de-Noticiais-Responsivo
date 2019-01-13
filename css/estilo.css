@@ -20,6 +20,7 @@ header {
 }
 .logo img {
 	display: block;
+	width: 200px;
 }
 
 /* busca */
@@ -169,3 +170,4 @@ header {
 			background: #555;
 			margin-left: 1.5em;
 		}
+
